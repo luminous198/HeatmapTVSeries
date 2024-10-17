@@ -15,4 +15,4 @@ Background and Text Colors: Control the theme with customizable background and t
 
 
 You can read the following blog which contains various screenshots using the script:
-https://milangargwebhosting.online/
+https://milangargwebhosting.online/blog_heatmap_visual.html
