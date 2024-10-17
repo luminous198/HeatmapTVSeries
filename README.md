@@ -13,3 +13,6 @@ Axis Customization: Modify fonts, colors, and sizes of axis labels.
 
 Background and Text Colors: Control the theme with customizable background and text colors.
 
+
+You can read the following blog which contains various screenshots using the script:
+https://milangargwebhosting.online/
